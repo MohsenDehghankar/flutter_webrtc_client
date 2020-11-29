@@ -56,5 +56,5 @@ realm=coturn.meetrix.io
           ]
         };
  ```
- - change it to your turn server's IP and use the username & password you set here ![Config coturn server](###Config-coturn-server).
+ - change it to your turn server's IP and use the username & password you set here ![Config coturn server](###-Config-coturn-server).
     - When both servers are local, use the IP of TURN server, seen by Signaling server. 
