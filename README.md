@@ -11,7 +11,7 @@ You need two servers, Signaling server and Turn/Stun Server
 Use this repository: [flutter_webrtc_server](https://github.com/flutter-webrtc/flutter-webrtc-server)
 
 ### Turn Server
-For turn server use this link: [coturn server install](https://nextcloud-talk.readthedocs.io/en/latest/TURN/)
+For turn server use this link: [coturn server](https://nextcloud-talk.readthedocs.io/en/latest/TURN/)
 
 ## Config
 
