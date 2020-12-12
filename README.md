@@ -33,7 +33,7 @@ verbose
 user=my_username:my_password
 lt-cred-mech
 ```
- - otherwise, use your server's IP in 'external-ip'
+ - otherwise, use your server's public IP in 'external-ip' and 'listening-ip'
  
  ### config Signaling server
   - make these changes in flutter_webrtc_server/configs/config.ini
@@ -58,5 +58,5 @@ realm=coturn.meetrix.io
           ]
         };
  ```
- - change it to your turn server's IP and use the username & password you set here ![Config coturn server](#config-coturn-server).
+ - change it to your turn server's public IP and use the username & password you set here ![Config coturn server](#config-coturn-server).
     - When both servers are local, use the IP of TURN server, seen by Signaling server. 
